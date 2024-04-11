@@ -1,2 +1,3 @@
 # project2
-i'm practing
+i'm practing.to how to handle git hub data
+git
